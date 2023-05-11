@@ -1,5 +1,5 @@
 //Guilhermw 9/05/2023
-//Algiritmo que coverte o real para dolar
+//Algoritmo que coverte o real para dolar
 
 //import do scanner para receber a respos do usuario
 import java.util.Scanner;
