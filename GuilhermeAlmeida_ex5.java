@@ -5,7 +5,7 @@
 //import do scanner oara receber a resposta do usuario
 import java.util.Scanner;
 
-public class FaixaEtaria {
+public class GuilhermeAlmeida_ex5 {
     
     //inicio
     public static void main(String[] args) {
