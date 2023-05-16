@@ -4,7 +4,7 @@
 //import do Scanner para receber a resposta do usuario
 import java.util.Scanner;
 
-public class PerimetroCirculo {
+public class GuilhermeAlmeida_ex6 {
     
     //inicio
     public static void main(String[] args) {
