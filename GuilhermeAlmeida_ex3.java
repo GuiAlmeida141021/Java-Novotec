@@ -4,7 +4,7 @@
 //import do scanner para receber a respos do usuario
 import java.util.Scanner;
 
-public class Dolar {
+public class GuilhermeAlmeida_ex3 {
     
     //inicio
     public static void main(String[] args) {
