@@ -4,7 +4,7 @@
 //import do scanner para receber a resposta do usuario
 import java.util.Scanner;
 
-public class Quadrado {
+public class GuilhermeAlmeida_ex2 {
     
     //inicio
     public static void main(String[] args) {
