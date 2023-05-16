@@ -4,7 +4,7 @@
 //import do scanner para receber a resposta do usuario 
 import java.util.Scanner;
 
-public class Media {
+public class GuilhermeAlmeida_ex1 {
     
     //inicio
     public static void main(String[] args) {
