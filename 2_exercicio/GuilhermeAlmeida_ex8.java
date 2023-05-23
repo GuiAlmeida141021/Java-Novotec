@@ -35,13 +35,13 @@ public class GuilhermeAlmeida_ex8{
         char genero = leitor.next().charAt(0);
         //Char é uma variavel de caracteres
         
-        //comeco do if para ver se o usuario e menino ou menina
-        if(genero == 'M'){
+        //começo do if para saber o genero do usuario 
+        if(genero == 'M' || genero == 'm'){
             imc = peso / (altura * altura);
             System.out.println("ola senhor " + nome + " seu imc é: " + df.format(imc));
-        }else if(genero == 'F'){
+        }else if(genero == 'F' || genero == 'f'){
             imc = 0.765 * peso / (altura * altura);
-        										System.out.println("ola senhora " + nome + " seu imc é: " + df.format(imc));
+        		System.out.println("ola senhora " + nome + " seu imc é: " + df.format(imc));
         }else{
             imc = 0.00;
             System.out.println("Genero invalido");
